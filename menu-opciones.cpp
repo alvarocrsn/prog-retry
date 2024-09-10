@@ -1,7 +1,7 @@
 #include <iostream>
 
 using namespace std;
-
+///prueba para pushear
 ///sumar numeros, verificar numeros pares o impares,
 ///convertir de celsiuus a fahrenheit, mostrar la table del cinco, y por lima opcion salir
 
