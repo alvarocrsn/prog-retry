@@ -1,0 +1,31 @@
+#include <iostream>
+
+using namespace std;
+
+///declaramos 3 variables -> numero1, numero2 y resultado.
+///inicializamos las variables numero1 y numero2, con numeros cualq
+///sumamos y guardamos en resultado
+///mostramos resultados
+
+int main() {
+
+    double numero1, numero2, resultado; ///declaramos
+
+    numero1 = 5;
+    ///inicializamos
+    numero2 = 10;
+
+    resultado = numero1 + numero2; ///sumamos y guardamos
+    cout << "El resultado de la suma es: " << resultados; ///mostramos
+
+    resultado = numero1 - numero2;
+    cout << "El resultado de la resta es: " << resultados;
+
+
+
+
+
+
+
+return 0;
+}
